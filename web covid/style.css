@@ -1,0 +1,21 @@
+
+.website{
+    display:grid;
+    text-align: center;
+}
+.container{
+    display:grid;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.judul{
+    display: grid;
+    text-align: center;
+    margin: 20px;
+}
+
+.card-body{
+    display: grid;
+    text-align: center;
+}
